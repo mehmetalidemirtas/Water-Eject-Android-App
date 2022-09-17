@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hoparlör Temizleyici - Su</string>
+    <string name="infoText">Cihazınız ıslandığında veya tozlandığında bu uygulama ile hoparlörü kolayca temizleyebilirsiniz. Uygulama başlatıldığında cihazda çalan özel ses dalgasını kullanarak hoparlörü temizler. Ayrıca kullanımı kolay ve hızlıdır, sadece 3 dakikada tamamlanır ve tamamen ücretsizdir. Daha verimli performans için işlemi bir kaç kez tekrar etmenizi öneriyoruz.</string>
+    <string name="infoTitle">Nasıl çalışıyor?</string>
+    <string name="successful2">Daha iyi bir sonuç için işlemi tekrarlayabilirsiniz</string>
+    <string name="successful1">Temizleme Başarılı</string>
+    <string name="mainTitle1">Hoparlörü</string>
+    <string name="mainTitle2">Temizle</string>
+    <string name="volumeText">Sesi Yükselt</string>
+    <string name="isEjecting">Su ve toz uzaklaştırılıyor...</string>
+    <string name="rateText">Uygulamaya puan verin</string>
+</resources>

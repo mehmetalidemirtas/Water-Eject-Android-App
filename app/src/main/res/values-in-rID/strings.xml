@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pembersih Speaker</string>
+    <string name="infoText">Saat perangkat anda basah atau berdebu, Anda dapat dengan mudah membersihkan speaker perangkat anda dengan aplikasi ini.  Aplikasi ini dapat dengan mudah membersihkan speaker menggunakan gelombang suara khusus yang diputar di perangkat saat aplikasi dimulai.  Selain mudah dan cepat digunakan, aplikasi ini juga selesai hanya dalam 3 menit, dan sepenuhnya gratis.  Sebaiknya ulangi proses beberapa kali untuk kinerja yang lebih efisien.</string>
+    <string name="infoTitle">Bagaimana cara kerjanya?</string>
+    <string name="successful2">Ulangi dalam beberapa kali untuk hasil yang lebih baik</string>
+    <string name="successful1">Berhasil dibersihkan</string>
+    <string name="mainTitle1">Mengeluarkan</string>
+    <string name="mainTitle2">Air dan Debu</string>
+    <string name="volumeText">Naikkan Volume</string>
+    <string name="isEjecting">Air dan debu dikeluarkan...</string>
+    <string name="rateText">Beri rating aplikasi ini</string>
+</resources>

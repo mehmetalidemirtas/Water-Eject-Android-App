@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Speaker Cleaner</string>
+    <string name="infoText">When your device gets wet or dusty,         you can easily clean the speaker with this application.         It cleans the speaker by using the special sound wave that plays on the device when the application is started.         It is also easy and fast to use, completes in just 3 minutes,         and is completely free. We recommend repeating the process several times for more efficient performance.</string>
+    <string name="infoTitle">How it works?</string>
+    <string name="successful2">Repeat a few times for a better result</string>
+    <string name="successful1">Ejected successful</string>
+    <string name="mainTitle1">Eject</string>
+    <string name="mainTitle2">Water and Dust</string>
+    <string name="volumeText">Volume Up</string>
+    <string name="isEjecting">Water and dust is ejecting...</string>
+    <string name="rateText">Rate this app</string>
+</resources>

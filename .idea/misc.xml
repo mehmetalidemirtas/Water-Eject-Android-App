@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3675" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/buttonstop.xml" value="0.303" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/clickbutton.xml" value="0.16" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/gradient_1.xml" value="0.127" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/gradient_2.xml" value="0.1" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/gradient_3.xml" value="0.1" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/gradient_list.xml" value="0.1" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.3675" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.3675" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/popupbg.xml" value="0.138" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/progressbar.xml" value="0.1335" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/drawable/rate_button.xml" value="0.286" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/layout/activity_eject.xml" value="0.5" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/layout/activity_main.xml" value="0.4743049705139006" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/layout/activity_succesful.xml" value="0.25" />
+        <entry key="..\:/MyAndroidApplication/CleantheSpeaker/app/src/main/res/layout/popup.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
